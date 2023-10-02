@@ -1,2 +1,1 @@
-# Std-Room-App
-This is a room booking app and also add some other features.
+Designed a user-friendly interface that allows students to easily search for available room based on criteria such as location, capacity, facility. This intuitive feature ensures quick and efficient room selection.
